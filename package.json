@@ -1,0 +1,20 @@
+{
+  "name": "firestore-samplequery",
+  "version": "1.0.0",
+  "description": "A script that helps query Cloud Firestore",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firestore",
+    "export",
+    "import"
+  ],
+  "author": "suhail339",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.13.1",
+    "js-yaml": "^3.12.1"
+  }
+}

@@ -1,0 +1,10 @@
+Working
+
+node export.js Role
+
+
+Example
+
+node import.js import-to-firestore.json date=date geo=Location
+
+node export.js <your-collection-name> <sub-collection-name-(optional)>
