@@ -21,7 +21,4 @@ node export.js <your-collection-name> <sub-collection-name-(optional)>
 node getDocumentById.js Collection DocId
 node getCollection.js CollectionName
 ```
-
-Thanks to [@suhail339](https://github.com/suhail339), you can use YAML files instead of JSON files in order to import to firestore.
-
 *If you have any recommendation or question, please create an issue. Thanks,*
